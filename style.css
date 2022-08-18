@@ -1,0 +1,111 @@
+
+a {
+    color: #fff !important;
+    text-decoration: none !important;
+
+}
+
+
+
+
+.w-150px {
+    width: 150px;
+}
+.rounded-full {
+    border-radius: 100%;
+}
+.w-3 {
+    width: 5%;
+}
+.profile-icon {
+    font-size:25px;
+    margin-left: 10px;
+    color: rgb(0, 153, 255);
+}
+body {
+    background-image: url(blue-purple-night-work-wallpaper-preview.jpg);
+    background-size: cover;
+}
+.btn-facebook {
+    width: 30%;
+    font-size: 23px !important;
+    border-radius: 12rem !important;
+    background-color: #555580 !important;  
+}
+.btn-youtube {
+    width: 30%;
+    font-size: 23px !important;
+    border-radius: 12rem !important;
+    background-color: #555580 !important;
+}
+.btn-instagram {
+    width: 30%;
+    font-size: 23px !important;
+    border-radius: 12rem !important;
+    background-color: #555580 !important;
+}
+.btn-whatsapp {
+    width: 30%;
+    font-size: 23px !important;
+    border-radius: 12rem !important;
+    background-color: #555580 !important;
+}
+.btn-twitter {
+    width: 30%;
+    font-size: 23px !important;
+    border-radius: 12rem !important;
+    background-color : #555580 !important; 
+}
+
+.profile-name h2 {
+    color: #fff;
+}
+
+.btn-tiktok {
+    width: 30%;
+    font-size: 23px !important;
+    border-radius: 12rem !important;
+    background-color : #555580 !important;  
+}
+
+.btn-website {
+    width: 30%;
+    font-size: 23px !important;
+    border-radius: 12rem !important;
+    background-color : #555580 !important;
+}
+.btn {
+    background-color: #8b8bff30 !important;
+    margin: 0.3em;
+    padding: 0.75rem !important;
+    position: relative;
+    overflow: hidden;
+}
+.footer-media {
+    font-size:30px;
+    color: rgb(197, 194, 194);
+}
+.footer-icon {
+    margin: 10px;
+}
+.icon-absolute {
+    position: absolute;
+    left: 0;
+    font-size: 50px;
+    color: #FFF;
+    opacity: 0.1;
+}
+.company-logo {
+    width: 100px;
+    margin-top: 12px;
+    margin-bottom: 12px;
+}
+
+
+
+
+@media (max-width:992px) {
+    .btn {
+        width: 65% !important;
+    }
+}
